@@ -10,19 +10,25 @@ Este projeto tem como foco a análise exploratória de dados de acidentes de tr�
 ### 🔎 Perguntas que orientam a análise:
 
 1. 📈 **O número de acidentes tem crescido ou diminuído ao longo dos anos?**  
-   Investigar a tendência histórica e identificar variações anuais significativas.
+   Análise temporal para verificar tendências anuais.
 
 2. 🗺️ **Quais os estados com maior índice de acidentes?**  
-   Comparar os estados brasileiros e destacar os que apresentam maior recorrência de ocorrências.
+   Identificação de estados com maior concentração de ocorrências.
 
 3. 🚧 **Qual a via com maior número de acidentes?**  
-   Identificar rodovias ou trechos críticos com altos índices de acidentes.
+   Verificação das rodovias e trechos mais críticos com base em BR e KM.
 
-4. 📅 **Qual o dia da semana e turno com maior número de acidentes?**  
-   Entender padrões temporais que possam indicar horários ou dias mais perigosos.
+4. 🕓 **Qual o dia da semana e turno com maior número de acidentes?**  
+   Avaliação do impacto do tempo (dia/turno) na frequência de acidentes.
 
 5. ⚠️ **Qual a maior causa de acidente?**  
-   Apontar os principais fatores associados aos acidentes, como imprudência, condições da via ou fatores climáticos.
+   Análise das causas mais comuns relatadas nos registros.
+
+6. 💥 **Quais tipos de acidentes resultam em mais feridos e mortos?**  
+   Correlação entre o tipo de acidente (colisão, capotamento, etc.) e sua gravidade.
+
+7. 📊 **Qual a proporção entre mortos, feridos graves, feridos leves e ilesos por tipo e causa de acidente?**  
+   Cálculo das proporções de vítimas por grupo para avaliar impacto e gravidade
 
 ## 🗂️ Fontes dos dados
 1. 	**Descrição**:  
