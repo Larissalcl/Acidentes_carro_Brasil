@@ -9,26 +9,39 @@ Este projeto tem como foco a análise exploratória de dados de acidentes de tr�
 
 ### 🔎 Perguntas que orientam a análise:
 
-1. 📈 **O número de acidentes tem crescido ou diminuído ao longo dos anos?**  
-   Análise temporal para verificar tendências anuais.
+1. 📈**Evolução dos Acidentes**
+   
+   O número de acidentes tem crescido ou diminuído ao longo dos anos?
 
-2. 🗺️ **Quais os estados com maior índice de acidentes?**  
-   Identificação de estados com maior concentração de ocorrências.
+2. 🕓**Distribuição Temporal**
 
-3. 🚧 **Qual a via com maior número de acidentes?**  
-   Verificação das rodovias e trechos mais críticos com base em BR e KM.
+   Qual o dia da semana e turno com maior número de acidentes?
 
-4. 🕓 **Qual o dia da semana e turno com maior número de acidentes?**  
-   Avaliação do impacto do tempo (dia/turno) na frequência de acidentes.
+   Como o turno influencia a gravidade dos acidentes?
 
-5. ⚠️ **Qual a maior causa de acidente?**  
-   Análise das causas mais comuns relatadas nos registros.
+3. 🗺️**Locais Críticos**
 
-6. 💥 **Quais tipos de acidentes resultam em mais feridos e mortos?**  
-   Correlação entre o tipo de acidente (colisão, capotamento, etc.) e sua gravidade.
+   Quais estados (UF), municípios e trechos (BR) concentram mais acidentes?
 
-7. 📊 **Qual a proporção entre mortos, feridos graves, feridos leves e ilesos por tipo e causa de acidente?**  
-   Cálculo das proporções de vítimas por grupo para avaliar impacto e gravidade
+4. ⚠️**Causas e Tipos de Acidentes**
+
+   Quais são as causas mais comuns?
+
+   Quais tipos de acidentes (colisão, saída de pista, atropelamento) resultam em mais feridos e mortos?
+
+5. 💥**Gravidade dos Acidentes**
+
+   Existe padrão entre condições meteorológicas e severidade dos acidentes?
+
+6. 🧍**Perfil dos Envolvidos e Veículos**
+   
+   Qual a quantidade média de pessoas e veículos por acidente?
+
+   Existe correlação entre o número de veículos envolvidos e o número de vítimas?
+
+7. 📊**Tendências e Prevenção**
+   
+   Existem padrões sazonais ou temporais que podem orientar ações preventivas (ex: mais acidentes em certas condições ou horários)?
 
 ## 🗂️ Fontes dos dados
 1. 	**Descrição**:  
