@@ -54,6 +54,18 @@ Durante a AED, observamos, por exemplo, que a maior parte dos acidentes ocorria 
 - As causas mais frequentes dos acidentes incluem falta de atenção à condução, velocidade incompatível, desobediência às normas de trânsito, ingestão de álcool e reação tardia ou ineficiente por parte dos condutores. Esses fatores resultam, principalmente, em colisões traseiras, saídas do leito carroçável, colisões transversais, frontais e tombamentos — sendo a colisão frontal a que mais causa mortes e ferimentos graves. Além disso, mais de 50% dos acidentes ocorreram em dias de céu claro, indicando que boas condições climáticas não garantem, por si só, a segurança no trânsito.
 
 ## 📌 Conclusões e Recomendações
+- **Campanhas educativas focadas em atenção e respeito às normas de trânsito**
+Considerando que as principais causas dos acidentes envolvem falta de atenção, velocidade incompatível e desobediência às normas de trânsito, é fundamental intensificar campanhas de conscientização voltadas para os motoristas, enfatizando a importância de um comportamento responsável ao volante. Para incentivar a participação nessas campanhas, podem ser organizados mutirões de treinamento, nos quais a adesão possa ser recompensada com benefícios, como descontos no IPVA. Além disso, incluir depoimentos de motoristas que já passaram por acidentes, compartilhando suas experiências e ressaltando as consequências da imprudência, pode tornar as campanhas mais impactantes e promover maior conscientização.
+
+- **Fiscalização mais rigorosa em horários críticos e investimento em infraestrutura nas rodovias com maior índice de acidentes**
+Considerando que domingo à noite e segunda-feira pela manhã apresentam maior número de acidentes, além da tarde ser o período com maior volume de ocorrências e a noite com maior gravidade, recomenda-se reforçar a fiscalização nesses períodos para coibir infrações como excesso de velocidade e direção sob efeito de álcool.
+A BR-101 e a BR-116, por serem as vias com mais acidentes, devem ser priorizadas em melhorias estruturais, como sinalização eficiente, iluminação adequada e manutenção das pistas, reduzindo o risco de colisões e tombamentos. Além disso, é importante realizar uma análise detalhada para identificar os trechos quilométricos mais perigosos dessas vias, de modo a direcionar as ações de infraestrutura e fiscalização para os locais que demandam maior atenção.
+
+- **Foco especial em estados com maiores índices de acidentes e mortes**
+Minas Gerais, Santa Catarina, Paraná e Rio Grande do Sul devem receber atenção especial em políticas públicas e investimentos em segurança viária, incluindo programas locais de educação, fiscalização e melhoria das condições das vias. Esses estados poderiam fazer uma pesquisa publica com os motoristas, para analisar o comportamento que leva a imprudência e assim, criar campanhas mais eficientes e direcionadas.
+
+- **Ações para reduzir acidentes graves, especialmente colisões frontais**
+Considerando que colisões frontais são as mais letais, ações como implantação de barreiras de segurança, faixas adicionais para ultrapassagem segura e controle de velocidade em trechos críticos podem ajudar a mitigar esse tipo de acidente.
 
 
 
