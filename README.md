@@ -39,17 +39,6 @@ Este projeto tem como foco a análise exploratória de dados de acidentes de tr�
 
    Existe correlação entre o número de veículos envolvidos e o número de vítimas?
 
-## 🗂️ Fontes dos dados
-1. 	**Descrição**:  
-Repositório, em português, cobrindo acidentes de 2017 a 2023 em rodovias federais brasileiras, usando estatísticas detalhadas de PRF.
-https://www.kaggle.com/datasets/mlippo/car-accidents-in-brazil-2017-2023.
-
-2. **Tipo de dados**:   
-Estruturado (CSV), formato tabular com colunas.
-
-3. **Métodos de acesso**:   
-Download diretamente via Kaggle (.csv) após autenticação e importado em Python (pandas).
-
 ## 🔍 Análise Exploratória de Dados
 A Análise Exploratória de Dados (AED) teve como objetivo compreender as principais características do conjunto de dados e identificar padrões, tendências e possíveis anomalias que pudessem impactar as etapas posteriores do projeto. Inicialmente, realizamos a limpeza dos dados onde avaliei a base de dados, verifique os tamanhos e tipos, chquei e substitui/exclui valores nulos, convertir tipos de dados, tratei dados duplicados e transformei a varíavel horário em categorias. 
 
@@ -64,4 +53,17 @@ Durante a AED, observamos, por exemplo, que a maior parte dos acidentes ocorria 
 - A BR-101 é a rodovia com o maior número de acidentes, seguida da BR-116. Ambas são consideradas vias de extrema importância, pois atravessam diversos estados brasileiros — a BR-101 percorre o litoral do país, do Rio Grande do Norte ao Rio Grande do Sul, enquanto a BR-116 é uma das mais extensas, ligando o Ceará ao Rio Grande do Sul. Sua grande extensão e intenso fluxo de veículos contribuem para o alto índice de ocorrências.
 - As causas mais frequentes dos acidentes incluem falta de atenção à condução, velocidade incompatível, desobediência às normas de trânsito, ingestão de álcool e reação tardia ou ineficiente por parte dos condutores. Esses fatores resultam, principalmente, em colisões traseiras, saídas do leito carroçável, colisões transversais, frontais e tombamentos — sendo a colisão frontal a que mais causa mortes e ferimentos graves. Além disso, mais de 50% dos acidentes ocorreram em dias de céu claro, indicando que boas condições climáticas não garantem, por si só, a segurança no trânsito.
 
+## 📌 Conclusões e Recomendações
 
+
+
+## 🗂️ Fontes dos dados
+1. 	**Descrição**:  
+Repositório, em português, cobrindo acidentes de 2017 a 2023 em rodovias federais brasileiras, usando estatísticas detalhadas de PRF.
+https://www.kaggle.com/datasets/mlippo/car-accidents-in-brazil-2017-2023.
+
+2. **Tipo de dados**:   
+Estruturado (CSV), formato tabular com colunas.
+
+3. **Métodos de acesso**:   
+Download diretamente via Kaggle (.csv) após autenticação e importado em Python (pandas).
