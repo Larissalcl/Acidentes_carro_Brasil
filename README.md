@@ -39,10 +39,6 @@ Este projeto tem como foco a análise exploratória de dados de acidentes de tr�
 
    Existe correlação entre o número de veículos envolvidos e o número de vítimas?
 
-7. 📊**Tendências e Prevenção**
-   
-   Existem padrões sazonais ou temporais que podem orientar ações preventivas (ex: mais acidentes em certas condições ou horários)?
-
 ## 🗂️ Fontes dos dados
 1. 	**Descrição**:  
 Repositório, em português, cobrindo acidentes de 2017 a 2023 em rodovias federais brasileiras, usando estatísticas detalhadas de PRF.
@@ -54,7 +50,13 @@ Estruturado (CSV), formato tabular com colunas.
 3. **Métodos de acesso**:   
 Download diretamente via Kaggle (.csv) após autenticação e importado em Python (pandas).
 
-
 ## 🔍 Análise Exploratória de Dados
+A Análise Exploratória de Dados (AED) teve como objetivo compreender as principais características do conjunto de dados e identificar padrões, tendências e possíveis anomalias que pudessem impactar as etapas posteriores do projeto. Inicialmente, realizamos a limpeza dos dados onde avaliei a base de dados, verifique os tamanhos e tipos, chquei e substitui/exclui valores nulos, convertir tipos de dados, tratei dados duplicados e transformei a varíavel horário em categorias. 
+
+Em seguida, segui com as estatísticas descritivas (como média, mediana e desvio padrão), e realizei análises para responder as perguntas geradas a apartir do problema central. Para isso, utilizei gráficos de barras, pizzas e mapa de calor para visualizar a distribuição das variáveis numéricas e categóricas. Análises de correlação também foram realizadas para entender o relacionamento entre as variáveis, auxiliando na seleção de atributos relevantes para modelos preditivos.
+
+Durante a AED, observamos, por exemplo, que a maior parte dos acidentes ocorria sob condições climáticas favoráveis. Também identificamos que certos estados e rodovias apresentavam incidência significativamente maior de ocorrências, o que pode indicar problemas estruturais ou operacionais locais.
 
 ## 💡 Insights Obtidos
+
+
