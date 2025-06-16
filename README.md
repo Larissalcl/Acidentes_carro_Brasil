@@ -46,7 +46,22 @@ Em seguida, segui com as estatísticas descritivas (como média, mediana e desvi
 
 Durante a AED, observamos, por exemplo, que a maior parte dos acidentes ocorria sob condições climáticas favoráveis. Também identificamos que certos estados e rodovias apresentavam incidência significativamente maior de ocorrências, o que pode indicar problemas estruturais ou operacionais locais.
 
+## Ferramentas Utilizadas
+Limpeza e Tratamento dos dados: 
+- Python
+
+Visualização de dados: 
+- Looker Studio - link:
+   - https://lookerstudio.google.com/reporting/6d2843f6-a387-407e-8d65-d672d65658d6
+
+
+![image](https://github.com/user-attachments/assets/841a3ca0-2eb4-47d3-8d16-da9d925de11a)
+
+![image](https://github.com/user-attachments/assets/5fd8ccc8-c389-4e77-a04f-7dc8349e9daf)
+
+
 ## 💡 Insights Obtidos
+
 - Observou-se uma redução gradual no número de acidentes de carro desde 2017, conforme ilustrado no gráfico abaixo. Ao comparar os dados de 2017 com os de 2023, nota-se uma queda de aproximadamente 50% nos acidentes registrados nas rodovias federais. No entanto, cerca de 78% dos acidentes ainda resultam em vítimas, sendo aproximadamente 6% com vítimas fatais — um índice preocupante e expressivamente elevado.
 - A análise demonstrou que domingo à noite e segunda de manhã são os dias com maior número de acidentes, uma das prováveis causas pode ser em função do aumento no tráfego de volta para casa após o final de semana. Ficou evidenciado que a tarde, é o turno com maior número de acidentes, aproximadamente 32%, porém a noite os acidentes possuem maior gravidade com maior número de mortos (~36%) e feridos graves (~32%). 
 - Minas Gerais é o estado com maior número de acidentes e mortes no trânsito. Outros estados, como Santa Catarina, Paraná e Rio Grande do Sul, também se destacam entre os primeiros colocados nesses indicadores.
@@ -66,7 +81,6 @@ Minas Gerais, Santa Catarina, Paraná e Rio Grande do Sul devem receber atençã
 
 - **Ações para reduzir acidentes graves, especialmente colisões frontais**
 Considerando que colisões frontais são as mais letais, ações como implantação de barreiras de segurança, faixas adicionais para ultrapassagem segura e controle de velocidade em trechos críticos podem ajudar a mitigar esse tipo de acidente.
-
 
 
 ## 🗂️ Fontes dos dados
