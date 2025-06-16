@@ -35,7 +35,7 @@ Este projeto tem como foco a análise exploratória de dados de acidentes de tr�
 
 6. 🧍**Perfil dos Envolvidos e Veículos**
    
-   Qual a quantidade média de pessoas e veículos por acidente?
+   Qual a quantidade de pessoas feridas e mortos por acidente?
 
    Existe correlação entre o número de veículos envolvidos e o número de vítimas?
 
